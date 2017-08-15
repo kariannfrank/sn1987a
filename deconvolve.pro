@@ -11,7 +11,7 @@
 ;       7/20/2011: This version uses Marx 4.4 (EAH)
 ;
 ;
-;       05/21/2014: Updated to be handle providing source position
+;       05/21/2014: Updated to handle providing source position
 ;                   as argument (non-interactive).  To run
 ;                   non-interactively, must provide all arguments.
 ;                   It is also possible to provide some arguments and
