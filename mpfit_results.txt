@@ -1,0 +1,3 @@
+stat  v_early  v_late  intercept  changepoint
+best      8334.72      1809.12     0.185427      5859.48
+stdev      972.341      158.502    0.0591277      96.6647
